@@ -10,7 +10,7 @@
 </a>
 ## 💫 About Me:
 
-- 🔭 I’m currently working on my **Building Logics and Learning New Technologies.**
+- 🔭 I’m currently working on **Building Logics and Learning New Technologies.**
 
 - 🌱 I’m currently learning **Python (AI and ML), DSA**
 

@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966"> 
-  🔭 I’m currently working on Building Logics and Learning New Technologies.<br>🌱 I’m currently learning Python (AI and ML), DSA.<br>💬 Ask me about : DSA, C\C++, Python.<br>👯 Looking forward to collaborate on projects.<br>⚡ Fun fact : I once taught myself to code a simple website overnight and        launched it the next day. It's still live and getting traffic today!
+  🔭 I’m currently working on Building Logics and Learning New Technologies.<br>🌱 I’m currently learning Python (AI and ML), DSA.<br>💬 Ask me about : DSA, C\C++, Python.<br>👯 Looking forward to collaborate on projects.<br>⚡ Fun fact : I once taught myself to code a simple website overnight and launched it the next day. It's still live and getting traffic today!
 
 
 ## 🌐 Socials:

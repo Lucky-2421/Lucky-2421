@@ -54,7 +54,7 @@
 <a href="https://instagram.com/lucky_singh2421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishan_rajput23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lokesh_2032_sin1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishan_rai99693" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lucky2421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kishan_rajput23" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lokesh20i54u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kishanrajput23" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/lucky_2421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kishanrajput23" height="30" width="40" /></a>
 </p>
 
 ### ✍️ Random Dev Quote
@@ -63,6 +63,6 @@
 [![](https://visitcount.itsvg.in/api?id=Lucky-2421&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- MARKDOWN LINKS & IMAGES -->
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/lucky2421?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=lokesh20i54u 
+[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=lucky_2421
 [leetcode-url]: https://leetcode.com/lucky2421
-[gfg-url]: https://auth.geeksforgeeks.org/user/lokesh20i54u
+[gfg-url]: https://auth.geeksforgeeks.org/user/lucky_2421
